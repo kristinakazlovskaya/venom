@@ -6,3 +6,4 @@
 - CSS
 - Javascript
 - Normalize
+- fancybox
